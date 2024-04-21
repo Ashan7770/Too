@@ -1,0 +1,20 @@
+﻿  Source.cpp
+  Source1.cpp
+  Создание кода...
+Source1.obj : error LNK2005: "public: void __cdecl slot::dan21(char const *,int,int)" (?dan21@slot@@QEAAXPEBDHH@Z) уже определен в Source.obj
+Source1.obj : error LNK2005: "public: void __cdecl slot::dan22(char const *,int,int)" (?dan22@slot@@QEAAXPEBDHH@Z) уже определен в Source.obj
+Source1.obj : error LNK2005: "public: void __cdecl slot::dan23(char const *,int,int)" (?dan23@slot@@QEAAXPEBDHH@Z) уже определен в Source.obj
+Source1.obj : error LNK2005: "public: void __cdecl slot::dan24(char const *,int,int)" (?dan24@slot@@QEAAXPEBDHH@Z) уже определен в Source.obj
+Source1.obj : error LNK2005: "public: void __cdecl slot::dan25(char const *,int,int)" (?dan25@slot@@QEAAXPEBDHH@Z) уже определен в Source.obj
+Source1.obj : error LNK2005: "public: void __cdecl Apparat::dan3(char const *,char const *,int)" (?dan3@Apparat@@QEAAXPEBD0H@Z) уже определен в Source.obj
+Source1.obj : error LNK2005: "public: char const * __cdecl snack::getDan11(void)const " (?getDan11@snack@@QEBAPEBDXZ) уже определен в Source.obj
+Source1.obj : error LNK2005: "public: char const * __cdecl snack::getDan12(void)const " (?getDan12@snack@@QEBAPEBDXZ) уже определен в Source.obj
+Source1.obj : error LNK2005: "public: char const * __cdecl snack::getDan13(void)const " (?getDan13@snack@@QEBAPEBDXZ) уже определен в Source.obj
+Source1.obj : error LNK2005: "public: char const * __cdecl snack::getDan14(void)const " (?getDan14@snack@@QEBAPEBDXZ) уже определен в Source.obj
+Source1.obj : error LNK2005: "public: char const * __cdecl snack::getDan15(void)const " (?getDan15@snack@@QEBAPEBDXZ) уже определен в Source.obj
+Source1.obj : error LNK2005: "public: void __cdecl snack::setDan11(char const *,int,int,int)" (?setDan11@snack@@QEAAXPEBDHHH@Z) уже определен в Source.obj
+Source1.obj : error LNK2005: "public: void __cdecl snack::setDan12(char const *,int,int,int)" (?setDan12@snack@@QEAAXPEBDHHH@Z) уже определен в Source.obj
+Source1.obj : error LNK2005: "public: void __cdecl snack::setDan13(char const *,int,int,int)" (?setDan13@snack@@QEAAXPEBDHHH@Z) уже определен в Source.obj
+Source1.obj : error LNK2005: "public: void __cdecl snack::setDan14(char const *,int,int,int)" (?setDan14@snack@@QEAAXPEBDHHH@Z) уже определен в Source.obj
+Source1.obj : error LNK2005: "public: void __cdecl snack::setDan15(char const *,int,int,int)" (?setDan15@snack@@QEAAXPEBDHHH@Z) уже определен в Source.obj
+C:\Users\Admin\source\repos\66788788\x64\Debug\66788788.exe : fatal error LNK1169: обнаружен многократно определенный символ - один или более
